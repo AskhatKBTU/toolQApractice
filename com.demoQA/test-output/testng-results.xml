@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10464" started-at="2020-04-14T14:38:54 EDT" finished-at="2020-04-14T14:39:05 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10464" started-at="2020-04-14T14:38:54 EDT" finished-at="2020-04-14T14:39:05 EDT">
+      <class name="com.demoQA.tests.smokeTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.demoQA.tests.smokeTests@1e6d1014]" name="beforeTest" is-config="true" duration-ms="4974" started-at="2020-04-14T14:38:54 EDT" finished-at="2020-04-14T14:38:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="fillPageInfo()[pri:0, instance:com.demoQA.tests.smokeTests@1e6d1014]" name="fillPageInfo" duration-ms="5364" started-at="2020-04-14T14:38:59 EDT" finished-at="2020-04-14T14:39:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPageInfo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.demoQA.tests.smokeTests@1e6d1014]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-04-14T14:39:05 EDT" finished-at="2020-04-14T14:39:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.demoQA.tests.smokeTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
