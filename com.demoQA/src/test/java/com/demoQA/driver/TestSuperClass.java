@@ -20,6 +20,8 @@ public class TestSuperClass {
 
 	}
 	
+	//aftertest
+	
 	@AfterTest
 
 	public void afterTest()  {
